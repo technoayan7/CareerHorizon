@@ -25,9 +25,9 @@ const LandingPage = () => {
           <span className="flex items-center gap-2 sm:gap-6">
             and get
             <img
-              src="/logo.png"
+              src="\public\Screenshot_2024-09-05_042805-removebg-preview.png"
               className="h-14 sm:h-24 lg:h-32"
-              alt="Hirrd Logo"
+              alt="CarrierHorizon Logo"
             />
           </span>
         </h1>
