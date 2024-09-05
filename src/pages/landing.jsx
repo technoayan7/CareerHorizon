@@ -27,7 +27,7 @@ const LandingPage = () => {
             <img
               src="\hired.png"
               className="h-14 sm:h-24 lg:h-32"
-              alt="CarrierHorizon Logo"
+              alt="CareerHorizon Logo"
             />
           </span>
         </h1>
