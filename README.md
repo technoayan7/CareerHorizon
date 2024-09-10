@@ -1,8 +1,7 @@
 # Full Stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI 🔥🔥
 
-# Hirrd React App
-
-Hirrd React App is a powerful and user-friendly job portal platform designed to connect job seekers with recruiters. The app enables candidates to search, apply, and save jobs, while recruiters can post, update, and delete job listings. Built with modern technologies, Hirrd ensures a seamless experience for both parties.
+# CareerHorizon
+CareerHorizon React App is a powerful and user-friendly job portal platform designed to connect job seekers with recruiters. The app enables candidates to search, apply, and save jobs, while recruiters can post, update, and delete job listings. Built with modern technologies, CareerHorizon ensures a seamless experience for both parties.
 
 ## Features
 
@@ -34,51 +33,3 @@ Hirrd React App is a powerful and user-friendly job portal platform designed to 
 - **Zod**: A schema declaration and validation library.
 - **Lucide React**: Icon library for React.
 
-## Installation
-
-To get started with Hirrd React App, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/unmeshup/hirrd-react-app.git
-   cd hirrd-react-app
-   ```
-
-2. **Install dependencies:**
-
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment variables:**
-
-   Create a `.env` file in the root directory and add your environment variables for Supabase, Clerk, etc.
-
-4. **Start the development server:**
-
-   ```bash
-   npm run dev
-   ```
-
-5. **Build for production:**
-
-   ```bash
-   npm run build
-   ```
-
-## Usage
-
-Once the development server is running, you can access the app locally at `http://localhost:3000`. From here, candidates can search and apply for jobs, while recruiters can manage their job postings.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to modify the content to better fit the specifics of your project.
